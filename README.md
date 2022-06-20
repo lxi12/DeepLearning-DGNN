@@ -23,7 +23,7 @@ GCN (Graph Convolutional Networks)
 
 EGCN_O: a version of EvolveGCN, GCN + LSTM
 
-Skip_GCN: experiment, apply a random matrix see how bad is the performance
+Skip_GCN: new experiment, apply a random matrix see how bad is the performance
 
 ## Usage
 
